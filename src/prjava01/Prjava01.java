@@ -5,10 +5,9 @@
  */
 package prjava01;
 
-
 /**
  *
- * @author maseam1718daw2vib (a on XYZ és el teu nom d'usuari Github)
+ * @author maseam1718dam2vib (a on XYZ és el teu nom d'usuari Github)
  */
 import java.io.*;
 
@@ -41,6 +40,9 @@ public class Prjava01 {
             bw.write("</html>");
             bw.newLine();
             bw.close();
+
+            bw.write("    <h1>DAW2 m08uf4pr2</h1>");
+            bw.newLine();
         }
     }
 }
